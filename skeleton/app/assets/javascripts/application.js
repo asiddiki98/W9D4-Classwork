@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require jquery.serializejson
+<<<<<<< HEAD
 //= require_tree .
+=======
+//= require_tree .
+>>>>>>> 7d15e36b011dba65fb8e4a8844027036660a8673
